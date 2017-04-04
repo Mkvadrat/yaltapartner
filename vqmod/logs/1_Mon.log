@@ -1,0 +1,44 @@
+---------- Date: 2016-11-21 02:48:48 ~ IP : 91.107.117.127 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=8c299462df48cf13ed5017205d2b8193&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/yaltapartner/public_html/vqmod/xml/admin_theme_base5builder_impulsepro_1.5.4-below.xml
+   id        : Admin Theme - Base 5 Builder - ImpulsePro
+   version   : 1.0.4
+   vqmver    : 2.0
+   author    : Niyi Sodipe - Base5Builder.com
+
+File Name    : admin/view/template/common/filemanager.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php echo $button_refresh; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2016-11-21 02:48:49 ~ IP : 91.107.117.127 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=8c299462df48cf13ed5017205d2b8193&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/yaltapartner/public_html/vqmod/xml/admin_theme_base5builder_impulsepro_1.5.4-below.xml
+   id        : Admin Theme - Base 5 Builder - ImpulsePro
+   version   : 1.0.4
+   vqmver    : 2.0
+   author    : Niyi Sodipe - Base5Builder.com
+
+File Name    : admin/view/template/common/filemanager.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php echo $button_refresh; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2016-11-21 10:23:59 ~ IP : 37.52.48.148 ----------
+REQUEST URI : /admin/index.php?route=setting/setting&amp;token=0c9fa80ff22adb09987eb8df5e978d2d
+MOD DETAILS:
+   modFile   : /home/yaltapartner/public_html/vqmod/xml/yandexmapsvqmodcontactV2.xml
+   id        : yandex_maps_vqmod
+   version   : 1.0
+   vqmver    : All
+   author    : web-tomsk.ru | lays
+
+File Name    : admin/view/template/setting/setting.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <td><input type="text" name="config_fax" value="<?php echo $config_fax; ?>" /></td>
+----------------------------------------------------------------------
+
+

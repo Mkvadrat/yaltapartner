@@ -1,0 +1,14 @@
+---------- Date: 2016-12-21 06:15:17 ~ IP : 91.107.117.127 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=58f13a49d34fd5ee72cc9355613df89d&amp;banner_id=12
+MOD DETAILS:
+   modFile   : /home/yaltapartner/public_html/vqmod/xml/image_manager_pan.xml
+   id        : Image manager based on elFinder
+   version   : 1.0
+   vqmver    : 2.X
+   author    : http://panforest.net
+
+File Name    : admin/view/template/design/banner_form.tpl(3)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): width: 700,
+----------------------------------------------------------------------
+
+
