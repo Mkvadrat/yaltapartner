@@ -291,8 +291,8 @@ margin-left: -43px;
 .product-list .pr_center{
 	width: 400px;
 	float: left;
-padding: 10px;
-
+	padding: 10px;
+	min-height: 200px;
 }
 .product-list .pr_center .name a{
 color: #2b2b2b;

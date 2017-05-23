@@ -223,6 +223,8 @@ class ControllerProductCategory extends Controller {
 			$this->data['text_sort'] = $this->language->get('text_sort');
 
 			$this->data['text_limit'] = $this->language->get('text_limit');
+			
+			$this->data['text_unit'] = $this->language->get('text_unit');
 
 					
 
